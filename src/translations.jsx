@@ -39,13 +39,18 @@ export default function Translations() {
     const translations = [
         { english: "Feature", latvian: "Funkcionalā iezīme" },
         { english: "Scenario", latvian: "Scenārijs" },
-        { english: "Given", latvian: "Dotas" },
-        { english: "When", latvian: "Kad" },
+        { english: "Given", latvian: "Kad" },
+        { english: "When", latvian: "Ja" },
         { english: "Then", latvian: "Tad" },
         { english: "And", latvian: "Un" },
+        { english: "Or", latvian: "Vai" },
         { english: "But", latvian: "Bet" },
-        { english: "Background", latvian: "Pamatne" },
-        { english: "Examples", latvian: "Piemēri" }
+        { english: "Background", latvian: "Konteksts" },
+        { english: "Scenario Outline", latvian: "Scenārijs pēc parauga" },
+        { english: "Examples", latvian: "Piemēri" },
+        { english: "User story", latvian: "Lietotājstāsts" },
+        { english: "Rule", latvian: "Noteikums" },
+        { english: "Komentārs", latvian: "#" },
     ];
 
     return (
