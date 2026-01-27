@@ -57,3 +57,10 @@ export function HappyPathScenarioInfo(){
         </div>
     )
 }
+export function scenarioExamples(){
+    return(
+        <>
+        <a href="https://docs.google.com/document/d/1VPPtpk8-z6CA-8qwT8k2izvj-y7a_ZnX2myNEFuyP08/edit?usp=sharing">Scenārija piemēri</a>
+        </>
+    )
+}
